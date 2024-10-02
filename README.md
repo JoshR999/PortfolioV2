@@ -1,3 +1,11 @@
+# Welcome!
+This is my portfolio project that I created to help show my skills.
+
+Packages used:
+ - React Router
+ - React Bootstrap
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
