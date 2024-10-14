@@ -4,6 +4,7 @@ function Splash() {
     return (
         <div>
             Splash page
+            Welcome to the page.
         </div>
     )
 }
